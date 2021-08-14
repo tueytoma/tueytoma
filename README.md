@@ -28,13 +28,38 @@
 
 ### about me:
 
-<img align="left" alt="js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+[<img align="left" height="26" width="26" alt="git" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" />](a 'Git')
+[<img align="left" height="26" width="26" alt="html5" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" />](a 'HTML5')
+[<img align="left" height="26" width="26" alt="css3" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" />](a 'CSS3')
+[<img align="left" height="26" width="26" alt="sass" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sass.svg" />](a 'Sass')
+[<img align="left" height="26" width="26" alt="javascript" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />](a 'JavaScript')
+[<img align="left" height="26" width="26" alt="alpinedotjs" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/alpinedotjs.svg" />](a 'Alpine.js')
+[<img align="left" height="26" width="26" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" />](a 'React')
+[<img align="left" height="26" width="26" alt="vuedotjs" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vuedotjs.svg" />](a 'Vue.js')
+[<img align="left" height="26" width="26" alt="postgresql" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postgresql.svg" />](a 'PostgreSQL')
+[<img align="left" height="26" width="26" alt="mysql" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" />](a 'MySQL')
+[<img align="left" height="26" width="26" alt="python" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" />](a 'Python3')
+<br>
 
+[<img align="left" height="26" width="26" alt="visualstudiocode" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg" />](a 'Visual Studio Code')
+[<img align="left" height="26" width="26" alt="jetbrains" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jetbrains.svg" />](a 'JetBrains')
+[<img align="left" height="26" width="26" alt="jupyter" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jupyter.svg" />](a 'Jupyter')
+[<img align="left" height="26" width="26" alt="html5" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/figma.svg" />](a 'figma')
+[<img align="left" height="26" width="26" alt="adobephotoshop" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobephotoshop.svg" />](a 'Adobe Photoshop')
+[<img align="left" height="26" width="26" alt="adobeillustrator" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobeillustrator.svg" />](a 'Adobe Illustrator')
+[<img align="left" height="26" width="26" alt="line" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/line.svg" />](a 'LINE')
+[<img align="left" height="26" width="26" alt="windows" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/windows.svg" />](a 'Windows')
+[<img align="left" height="26" width="26" alt="ubuntu" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/ubuntu.svg" />](a 'Ubuntu')
+
+<br>
+
+### learning and interest:
+[<img align="left" height="32" width="32" alt="nuxtdotjs" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nuxtdotjs.svg" />](a 'Nuxt.js')
+[<img align="left" height="32" width="32" alt="firebase" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/firebase.svg" />](a 'Firebase')
+[<img align="left" height="32" width="32" alt="flutter" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/flutter.svg" />](a 'Flutter')
+[<img align="left" height="32" width="32" alt="numpy" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/numpy.svg" />](a 'Numpy')
+[<img align="left" height="32" width="32" alt="pandas" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/pandas.svg" />](a 'Pandas')
+[<img align="left" height="32" width="32" alt="homeassistant" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/homeassistant.svg" />](a 'Home Assistant')
 
 <br><br><br>
 
