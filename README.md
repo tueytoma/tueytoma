@@ -62,9 +62,9 @@
 [<img align="left" height="32" width="32" alt="homeassistant" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/homeassistant.svg" />](a 'Home Assistant')
 
 <br><br><br>
-
+<!-- 
 ## This is My Stats
-![tueytoma's GitHub stats](https://github-readme-stats.vercel.app/api?username=tueytoma&count_private=true)
+![tueytoma's GitHub stats](https://github-readme-stats.vercel.app/api?username=tueytoma&count_private=true) -->
 
 <!-- [![tueytoma's GitHub stats](https://raw.githubusercontent.com/tueytoma/github-stats-transparent/output/generated/overview.svg)]()
 [![tueytoma's GitHub stats](https://raw.githubusercontent.com/tueytoma/github-stats-transparent/output/generated/languages.svg)]() -->
