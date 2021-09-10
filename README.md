@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" src="https://firebasestorage.googleapis.com/v0/b/tmroom-wesite.appspot.com/o/Avatar.png?alt=media&token=96872862-fdb7-4ab4-8886-37b2c5bb9cc0">
+<img width="150" height="150" align="left" src="https://raw.githubusercontent.com/tueytoma/tueytoma/master/asset/tueytoma.png">
 
 ### hello !
 > i am "**SITTHICHAI SAEJIA**" and u can call me **'Tuey'** - aka _TueyToma_ [เต้ย Toey in Thai]
