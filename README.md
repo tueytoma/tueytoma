@@ -77,4 +77,4 @@
 [twitter]: https://twitter.com/TueyToma
 [linkedin]: https://www.linkedin.com/in/sitthichai-saejia-8805a0142/
 [medium]: https://medium.com/@tueytoma
-[email]: mailto:tuey.sitthichai@gmail.com?subject=hello_i'm_from_github_profile!
+[email]: mailto:tuey.sitthichai+contact@gmail.com?subject=hello_i'm_from_github_profile!
