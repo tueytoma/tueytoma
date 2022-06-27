@@ -11,7 +11,7 @@
 
 ## I'm a Developer who loves Graphic Design !!
 
-- 💻 front-end developer and product owner @[Health at Home, Thailand][hah-website]
+- 💻 front-end developer and scrum master @[Health at Home, Thailand][hah-website]
 - 🎨 graphic designer @[CAMPHUB, Thailand][camphub-website]
 - ⭐ i am interested in learning new things
 - ❤️ k-pop LOVER - IZ*ONE | TWICE | GFRIEND | ITZY | AESPA
