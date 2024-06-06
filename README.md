@@ -22,7 +22,7 @@
 [<img align="left" alt="TueyToma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="TueyToma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="TueyToma | Medium" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/5c924ac18d01b2786856d144afc65d581919ada8/icons/medium.svg" />][medium]
-[<img align="left" alt="TueyToma | Email" width="22px" src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/mail.svg" />][email]
+[<img align="left" alt="TueyToma | Email" width="22px" src="https://www.svgrepo.com/show/511917/email-1572.svg" />][email]
 
 <br>
 
