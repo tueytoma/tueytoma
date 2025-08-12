@@ -15,7 +15,7 @@
 - 💻 front-end developer (freelance) @[MoonRhythm, Thailand][moon-website]
 - 🎨 graphic designer @[CAMPHUB, Thailand][camphub-website]
 - ⭐ i am interested in learning new things and love using technology or programming languages to facilitate my work
-- ❤️ k-pop LOVER - IZ*ONE | GFRIEND | VIVIZ | AKMU
+- ❤️ k-pop LOVER - IZ*ONE | GFRIEND | VIVIZ | AKMU | QWER
 
 ### you can connect with me:
 
