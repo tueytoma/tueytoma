@@ -1,10 +1,10 @@
 <div align="center">
 
-# hello ! i am Toey 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=1800&pause=1000&color=F5CA57&center=true&vCenter=true&repeat=false&width=520&height=64&lines=hello+!+i+am+Toey+%F0%9F%91%8B" alt="hello ! i am Toey 👋" />
 
 **Sitthichai Sae-Jia** - aka _TueyToma_ (เต้ย) &nbsp;·&nbsp; 📍 Bangkok, Thailand
 
-<a href="https://tueytoma.space/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=F5CA57&center=true&vCenter=true&width=520&height=32&lines=const+dev+%3D+'tueytoma'%3B;Front-End+Developer+%C2%B7+Scrum+Master;who+loves+(graphic+ux%2Fui)+design+%F0%9F%8E%A8;initialize(portfolio)%3B" alt="typing intro" /></a>
+<a href="https://tueytoma.space/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=8B949E&center=true&vCenter=true&width=520&height=32&lines=const+dev+%3D+'tueytoma'%3B;Front-End+Developer+%C2%B7+Scrum+Master;who+loves+(graphic+ux%2Fui)+design+%F0%9F%8E%A8;initialize(portfolio)%3B" alt="typing intro" /></a>
 
 [![Website](https://img.shields.io/badge/tueytoma.space-F5CA57?style=for-the-badge&logo=googlechrome&logoColor=black)](https://tueytoma.space/)
 [![Portfolio PDF](https://img.shields.io/badge/Portfolio_PDF-1F2328?style=for-the-badge&logo=readdotcv&logoColor=F5CA57)](https://tueytoma.space/sitthichai_saejia_cv.pdf)
@@ -15,7 +15,7 @@
 
 </div>
 
----
+<br><br>
 
 ## 👋 About me
 
