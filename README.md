@@ -1,9 +1,10 @@
-<img width="160" height="160" align="left" src="https://tueytoma.space/avatar.svg" alt="Sitthichai Sae-Jia">
+<div align="center">
 
-### hello ! i am Sitthichai Sae-Jia 👋
-u can call me **'Toey'** (เต้ย) - aka _TueyToma_ &nbsp;·&nbsp; 📍 Bangkok, Thailand
+# hello ! i am Toey 👋
 
-<a href="https://tueytoma.space/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=F5CA57&vCenter=true&width=440&height=28&lines=const+dev+%3D+'tueytoma'%3B;Front-End+Developer+%C2%B7+Scrum+Master;who+loves+(graphic+ux%2Fui)+design+%F0%9F%8E%A8;initialize(portfolio)%3B" alt="typing intro" /></a>
+**Sitthichai Sae-Jia** - aka _TueyToma_ (เต้ย) &nbsp;·&nbsp; 📍 Bangkok, Thailand
+
+<a href="https://tueytoma.space/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=F5CA57&center=true&vCenter=true&width=520&height=32&lines=const+dev+%3D+'tueytoma'%3B;Front-End+Developer+%C2%B7+Scrum+Master;who+loves+(graphic+ux%2Fui)+design+%F0%9F%8E%A8;initialize(portfolio)%3B" alt="typing intro" /></a>
 
 [![Website](https://img.shields.io/badge/tueytoma.space-F5CA57?style=for-the-badge&logo=googlechrome&logoColor=black)](https://tueytoma.space/)
 [![Portfolio PDF](https://img.shields.io/badge/Portfolio_PDF-1F2328?style=for-the-badge&logo=readdotcv&logoColor=F5CA57)](https://tueytoma.space/sitthichai_saejia_cv.pdf)
@@ -12,7 +13,7 @@ u can call me **'Toey'** (เต้ย) - aka _TueyToma_ &nbsp;·&nbsp; 📍 Ban
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)][x]
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white)][email]
 
-<br clear="left"/>
+</div>
 
 ---
 
